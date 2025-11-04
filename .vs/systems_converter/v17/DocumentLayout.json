@@ -1,12 +1,71 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\\u043F\u0440\u043E\u0433\u0438\\cpp\\systems_converter\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB38A64-8FF3-485F-A3D8-8E1147075B15}|systems_converter\\systems_converter.vcxproj|D:\\\u043F\u0440\u043E\u0433\u0438\\cpp\\systems_converter\\systems_converter\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5DB38A64-8FF3-485F-A3D8-8E1147075B15}|systems_converter\\systems_converter.vcxproj|solutionrelative:systems_converter\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB38A64-8FF3-485F-A3D8-8E1147075B15}|systems_converter\\systems_converter.vcxproj|D:\\\u043F\u0440\u043E\u0433\u0438\\cpp\\systems_converter\\systems_converter\\Functions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5DB38A64-8FF3-485F-A3D8-8E1147075B15}|systems_converter\\systems_converter.vcxproj|solutionrelative:systems_converter\\Functions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB38A64-8FF3-485F-A3D8-8E1147075B15}|systems_converter\\systems_converter.vcxproj|D:\\\u043F\u0440\u043E\u0433\u0438\\cpp\\systems_converter\\systems_converter\\Imports.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5DB38A64-8FF3-485F-A3D8-8E1147075B15}|systems_converter\\systems_converter.vcxproj|solutionrelative:systems_converter\\Imports.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Functions.h",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0433\u0438\\cpp\\systems_converter\\systems_converter\\Functions.h",
+              "RelativeDocumentMoniker": "systems_converter\\Functions.h",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0433\u0438\\cpp\\systems_converter\\systems_converter\\Functions.h",
+              "RelativeToolTip": "systems_converter\\Functions.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-04T17:16:16.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Imports.h",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0433\u0438\\cpp\\systems_converter\\systems_converter\\Imports.h",
+              "RelativeDocumentMoniker": "systems_converter\\Imports.h",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0433\u0438\\cpp\\systems_converter\\systems_converter\\Imports.h",
+              "RelativeToolTip": "systems_converter\\Imports.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-04T17:14:25.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "D:\\\u043F\u0440\u043E\u0433\u0438\\cpp\\systems_converter\\systems_converter\\Main.cpp",
+              "RelativeDocumentMoniker": "systems_converter\\Main.cpp",
+              "ToolTip": "D:\\\u043F\u0440\u043E\u0433\u0438\\cpp\\systems_converter\\systems_converter\\Main.cpp",
+              "RelativeToolTip": "systems_converter\\Main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-04T17:14:07.193Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
